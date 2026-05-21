@@ -1,0 +1,3 @@
+ErrorDocument 403 /building
+Order deny,allow
+Deny from all
